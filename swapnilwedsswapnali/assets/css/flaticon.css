@@ -7,6 +7,21 @@ url("../fonts/flaticon.eot") format("embedded-opentype"),
 url("../fonts/flaticon.svg") format("svg");
 }
 
+@font-face {
+    font-family: "aspire";
+    src: url("../fonts/AspireDemibold-YaaO.ttf")
+}
+
+@font-face {
+    font-family: "Moonbright";
+    src: url("../fonts/MoonbrightDemo-1GGn2.ttf")
+}
+
+@font-face {
+    font-family: "majestic";
+    src: url("../fonts/MajesticPersonalUseRegular-ZVP3B.ttf")
+}
+
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     font-family: flaticon !important;
     font-style: normal;

@@ -7409,8 +7409,11 @@ static-hero-s4
 }
 
 .couple-section .text-grid h3 {
-  font-size: 22px;
-  font-size: 1.46667rem;
+	font-family: "aspire", serif;
+    font-size: 45px;
+    color: #023e7d;
+ 
+ ! font-size: 1.46667rem;
   margin: 0 0 0.8em;
 }
 
@@ -7434,6 +7437,7 @@ static-hero-s4
   content: "";
   border: 1px solid #fff;
   z-index: 1;
+  
 }
 
 .couple-section .text-grid .couple-img img {
@@ -7771,6 +7775,7 @@ static-hero-s4
 }
 
 .story-section .story-timeline .story-text {
+	
   padding-left: 50px;
 }
 
